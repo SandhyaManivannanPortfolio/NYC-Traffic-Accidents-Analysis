@@ -32,7 +32,7 @@ register_google("AIzaSyBKvO5vCjsT0qC7iUtzMJdgdzpz4jfkY08")
 # register_google("API_key")
 
 #  Import “NYC 2020 Accidents” file
-accidents <- read.csv("C:/Users/beari/OneDrive/Desktop/StJoes/SJU Spring 2023/DSS 665 R/Final Project/NYC_Accidents_2020.csv")
+accidents <- read.csv("path/toTheFile")
 
 # Attach headers
 attach(accidents)
