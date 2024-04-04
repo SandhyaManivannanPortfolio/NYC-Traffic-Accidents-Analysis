@@ -27,7 +27,7 @@ library(scales)
 library(MASS) #for running stepwise on clusters
 
 # Google API key mapping
-register_google("AIzaSyBKvO5vCjsT0qC7iUtzMJdgdzpz4jfkY08")
+register_google("GoogleApiKeyValue")
 # code shared with others
 # register_google("API_key")
 
